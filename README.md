@@ -1,1 +1,1 @@
-# GameWolvesMidway
+# GamingWolvesMidway
